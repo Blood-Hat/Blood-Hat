@@ -1,7 +1,7 @@
 # Hi, I'm Abhra Chowdhury 👋
 
 **Final-year B.Tech student · Aspiring Software Engineer**  
-Currently focused on **Java Full-Stack Development**.
+Currently focused on **Java Full-Stack Development**
 
 ## About Me
 
