@@ -15,7 +15,7 @@ My learning approach is to understand the fundamentals, complete smaller project
 
 - Strengthening my understanding of **Java and Object-Oriented Programming**.
 - Learning how backend services, REST APIs, relational databases, and frontend applications fit together.
-- Working toward completing my **Python and MySQL authentication service**.
+- Improving my **Python Tkinter and MySQL user-registration prototype**, with login authentication, stronger password handling, validation, and interface improvements planned.
 - Learning the stack needed for a future **Spring Boot and React hotel booking application**.
 - Improving my use of **Git and GitHub** to organize and document my work.
 
@@ -38,8 +38,9 @@ Each project is at a different stage. Planned features and technologies describe
 
 | Project | Current status | Overview |
 | --- | --- | --- |
-| **Secure Authentication Service** | 🚧 In development — almost complete | A Python and MySQL authentication project with edge-case validation around failed logins and authentication behavior. |
-| **Java AWT Calculator** | ✅ Completed | A basic desktop GUI calculator built with Java AWT. Repository upload and documentation are next. |
+| **[Python Tkinter User Registration System](https://github.com/Blood-Hat/python-tkinter-user-registration)** | ✅ Functional prototype — improvements planned | A desktop registration application using Tkinter and MySQL. It stores user profiles with parameterized SQL; login authentication and stronger password handling are planned. |
+| **[Java AWT Calculator](https://github.com/Blood-Hat/java-awt-calculator)** | ✅ Completed and documented | A desktop calculator showing the progression from an original AWT implementation to an improved version with editable expressions, backspace, clearing, and division-by-zero handling. |
+| **[Java Car Rental System](https://github.com/Blood-Hat/java-car-rental-system)** | ✅ Working OOP learning project | A console-based rental application modelling cars, customers, and rentals with Java classes, collections, pricing, and availability state. |
 | **Hotel & Resort Booking System** | 📚 Planned — not started | A future Java full-stack application using Spring Boot, Spring Web, React, REST APIs, Hibernate/JPA, SQL, and Maven. I am currently learning the required stack. |
 | **The Devil Made Me Do This** | 💡 Concept / experimental — not built | My dream developer portfolio: a dark-fantasy experience centered on an interactive 3D demonic face, animated project cards, and shader effects. Planned around React, React Three Fiber, and a Java/Spring Boot backend, developed one milestone at a time. |
 | **Software Reliability Testing and Vulnerability Detection** | 🔬 Research / ideation | My working final-year project topic. The research question, datasets, methodology, and implementation approach are still to be defined. |
