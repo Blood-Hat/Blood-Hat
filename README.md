@@ -43,7 +43,7 @@ Each project is at a different stage. Planned features and technologies describe
 | **[Java Car Rental System](https://github.com/Blood-Hat/java-car-rental-system)** | ✅ Working OOP learning project | A console-based rental application modelling cars, customers, and rentals with Java classes, collections, pricing, and availability state. |
 | **Hotel & Resort Booking System** | 📚 Planned — not started | A future Java full-stack application using Spring Boot, Spring Web, React, REST APIs, Hibernate/JPA, SQL, and Maven. I am currently learning the required stack. |
 | **The Devil Made Me Do This** | 💡 Concept / experimental — not built | My dream developer portfolio: a dark-fantasy experience centered on an interactive 3D demonic face, animated project cards, and shader effects. Planned around React, React Three Fiber, and a Java/Spring Boot backend, developed one milestone at a time. |
-| **Software Reliability Testing and Vulnerability Detection** | 🔬 Research / ideation | My working final-year project topic. The research question, datasets, methodology, and implementation approach are still to be defined. |
+| **[ReleaseGuard — Software Reliability and Vulnerability Detection](https://github.com/Blood-Hat/ReleaseGuard)** | 🔬 Research prototype — baseline experiment complete | An explainable pre-release assessment combining vulnerability prediction, traceable static findings, and reliability growth. Developed under the academic guidance of Dr. Rana Majumdar, using the OWASP BenchmarkJava dataset; methodology, results, and source credits are in the repository. |
 
 ## Learning Path
 
