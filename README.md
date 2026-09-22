@@ -48,7 +48,7 @@ Each project is at a different stage. Planned features and technologies describe
 
 My intended progression:
 
-**Java → OOP → JDBC / Databases → Spring Framework → Spring Boot → REST APIs → Hibernate / JPA → React → Full-Stack Application Development**
+**Java → OOP → JDBC / Databases → J2EE → Spring Framework → Spring Boot → REST APIs → Hibernate / JPA → React → Full-Stack Application Development**
 
 Along the way, I am strengthening my understanding of testing, security, software architecture, and version control.
 
