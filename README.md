@@ -3,6 +3,8 @@
 **Final-year B.Tech student · Aspiring Software Engineer**  
 Currently focused on **Java Full-Stack Development**
 
+🌐 **[Open my portfolio — The Devil Made Me Do It](https://the-devil-made-me-do-it.vercel.app/)**
+
 ## About Me
 
 I'm building my foundations in software engineering, with a particular interest in the Java and Spring ecosystem.
@@ -42,7 +44,7 @@ Each project is at a different stage. Planned features and technologies describe
 | **[Java AWT Calculator](https://github.com/Blood-Hat/java-awt-calculator)** | ✅ Completed and documented | A desktop calculator showing the progression from an original AWT implementation to an improved version with editable expressions, backspace, clearing, and division-by-zero handling. |
 | **[Java Car Rental System](https://github.com/Blood-Hat/java-car-rental-system)** | ✅ Working OOP learning project | A console-based rental application modelling cars, customers, and rentals with Java classes, collections, pricing, and availability state. |
 | **Hotel & Resort Booking System** | 📚 Planned — not started | A future Java full-stack application using Spring Boot, Spring Web, React, REST APIs, Hibernate/JPA, SQL, and Maven. I am currently learning the required stack. |
-| **The Devil Made Me Do This** | 💡 Concept / experimental — not built | My dream developer portfolio: a dark-fantasy experience centered on an interactive 3D demonic face, animated project cards, and shader effects. Planned around React, React Three Fiber, and a Java/Spring Boot backend, developed one milestone at a time. |
+| **[The Devil Made Me Do It — Portfolio](https://the-devil-made-me-do-it.vercel.app/)** | 🌐 Live — ongoing development | An interactive dark-fantasy portfolio with a 3D demonic gatekeeper, animated project cards, and a project archive. Built with React, React Three Fiber, Three.js, and Vite. |
 | **[ReleaseGuard — Software Reliability and Vulnerability Detection](https://github.com/Blood-Hat/ReleaseGuard)** | 🔬 Research prototype — baseline experiment complete | An explainable pre-release assessment combining vulnerability prediction, traceable static findings, and reliability growth. Developed under the academic guidance of Dr. Rana Majumdar, using the OWASP BenchmarkJava dataset; methodology, results, and source credits are in the repository. |
 
 ## Learning Path
